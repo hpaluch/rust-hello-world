@@ -6,7 +6,7 @@ This example comes from https://doc.rust-lang.org/book/getting-started.html
 
 ## Setup
 
-Tested on Ubuntu 16.04.1 LTS
+Tested on `Ubuntu 18.04.2 LTS` (formerly Ubuntu 16.04.1 LTS)
 
 Install these packages on Ubuntu:
 
@@ -20,6 +20,12 @@ mkdir ~/projects
 cd ~/projects
 git clone https://github.com/hpaluch/rust-hello-world.git
 cd rust-hello-world
+```
+
+Updating from Ubuntu 16 to Ubuntu 18:
+Issue this command to update to recent dependencies:
+```bash
+cargo update
 ```
 
 ## Build
