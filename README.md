@@ -44,6 +44,22 @@ Invoke this command from project directory:
 cargo run
 ```
 
+## Examples
+
+### Date example
+
+Printing current date/time:
+* `chrono` depndency was added to `Cargo.toml` 
+  from https://docs.rs/chrono/0.4.6/chrono/
+* and example snippet was copied
+  from https://rust-lang-nursery.github.io/rust-cookbook/datetime/parse.html#display-formatted-date-and-time
+
+### Original hello-world
+
+Can be still fetched using this tag: https://github.com/hpaluch/rust-hello-world/tree/t-just-hello-world
+
+
+
 ### Resources
 
 * https://doc.rust-lang.org/book/getting-started.html
