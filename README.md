@@ -54,6 +54,10 @@ Printing current date/time:
 * and example snippet was copied
   from https://rust-lang-nursery.github.io/rust-cookbook/datetime/parse.html#display-formatted-date-and-time
 
+These two files were modified:
+* [Cargo.toml](https://github.com/hpaluch/rust-hello-world/commit/3d4b250b81c6b2f7e0d2f5d0267f50e850acca6f#diff-80398c5faae3c069e4e6aa2ed11b28c0)
+* [main.rs](https://github.com/hpaluch/rust-hello-world/commit/3d4b250b81c6b2f7e0d2f5d0267f50e850acca6f#diff-639fbc4ef05b315af92b4d836c31b023)
+
 ### Original hello-world
 
 Can be still fetched using this tag: https://github.com/hpaluch/rust-hello-world/tree/t-just-hello-world
